@@ -5,9 +5,9 @@ body{
 }
 div{
   width: 100%;
-  height: 95%;
+  height: 100%;
   background-size:cover;
-  background-image: url("../images/half-white-and-blue-background.jpg");
+  background-image: url("../images/pic.jepg");
   background-repeat:no-repeat;
 }
 .bold{
@@ -41,4 +41,7 @@ ul li a{
 }
 ul li a:hover{
   color: blue;
+}
+img{
+  float: right;
 }
