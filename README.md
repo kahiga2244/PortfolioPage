@@ -1,7 +1,7 @@
 # PortfolioPage
 kahigakamiru-gmail.com
 {Week 1 Ip on project}
-{Creating my portfolio page}, {April,2020}
+{Creating my portfolio page}, {December,2020}
 By {Kahiga2244}
 Description
 {The project is on creating a website that contains my documentation as a programmer}
